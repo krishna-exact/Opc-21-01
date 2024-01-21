@@ -1,0 +1,33 @@
+{
+    "version": "2.29",
+    "files": [
+        "main.js",
+        "index.js",
+        "index.html",
+        "OPCClient_NEW.jar",
+        "action.js",
+        "check_process.bat",
+        "create_scheduler.bat",
+        "preload.js",
+        "opc-ua-client.js",
+        "ua_index.html"
+    ],
+    "changelog": {
+        "fixed": [
+            "split log feature fixed",
+            "delete button fixed"
+        ],
+        "added": [
+            "add dummy meta with adding tags from OPC connect",
+            "new UI for UA with features related to UA",
+            "version visibility",
+            "download speed visibility",
+            "address visibility of tags",
+            "copy logs button added"
+        ],
+        "deleted": [
+            "Test button removed",
+            "Prefer address toggle button removed from UA."
+        ]
+    }
+}
